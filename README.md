@@ -25,7 +25,7 @@
 - gitbook 생성시, github TIL repository와 동기화도 가능합니다.
 - gitbook에서 새로운 노트를 작성할 수도 있습니다. (직접 작성한 md이 깔끔하지만, 편집은 gitbook이 훨씬 편리)   
 - [bitly][2]에서 단축 url을 생성합니다. (링크에 언제 몇 번 접속하는지 분석 결과 제공)
-- gitbook에 새 article을 추가하면 [SUMARRY.md](SUMARRY.md)파일에 리스트업 됩니다. (목차)
+- gitbook에 새 article을 추가하면 [SUMMARY.md](SUMMARY.md)파일에 리스트업 됩니다. (목차) 
 
 [1]:https://www.gitbook.com/
 [2]:https://bitly.com/
