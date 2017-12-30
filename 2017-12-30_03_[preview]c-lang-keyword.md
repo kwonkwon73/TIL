@@ -9,7 +9,7 @@
 > * 유튜브 강의 :
 >   [https://www.youtube.com/watch?v=K55UUn0vVTY&list=PLOKPEzlY4JKTQ-hsiE6ftb7q12Ubsjr\_f](https://www.youtube.com/watch?v=K55UUn0vVTY&list=PLOKPEzlY4JKTQ-hsiE6ftb7q12Ubsjr_f)
 > * 블로그 강의 자료 :
->   [http://nowcampus.tistory.com/entry/1장-C언어?category=655340](http://nowcampus.tistory.com/entry/1장-C언어?category=655340)
+>   [http://nowcampus.tistory.com/category/%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/C%20%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D](http://nowcampus.tistory.com/category/%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/C%20%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 > * 카페 c언어 소스 파일 :
 >   [http://cafe.daum.net/nowcampus/dZlN](http://cafe.daum.net/nowcampus/dZlN)
 
@@ -79,7 +79,7 @@
 * [ ] if문, switch문 각각의 강점\(사용예\)
 * [ ] 메모리, 프로그래밍 언어가 동작하는 방식 \(메모리가 뭐고, 언어랑 어떤 관련이 있나, 왜 c언어는 자바스크립트보다 메모리에 신경 쓸 일이 많은가\)
   * 데이터 저장되는게 메모리이고, 결국 프로그래밍은 메모리에 있는 데이터를 가공해서 보여주는것이므로 데이터를 조작하는게 가장 중요한 일. 이 데이터를 조작하는\(직접 다루는\)일이 별로 없었지만 c언어는 좀 더 저급언어에 가까운 고급언어라서 데이터를 조작하는 일이 중요한 것 같다, 정도로만 지금은 생각하고 있다. 
-    * c 저수준 언어인 줄 알았더니 어셈블리어-기계어\(저급언어\)-고급언어\(c포함\) 이렇게 나뉘네. 대신 저급에 좀 더 가깝고 고급에 좀 더 가깝고 이런 건 있는 듯  
+  * c 저수준 언어인 줄 알았더니 어셈블리어-기계어\(저급언어\)-고급언어\(c포함\) 이렇게 나뉘네. 대신 저급에 좀 더 가깝고 고급에 좀 더 가깝고 이런 건 있는 듯  
   * [ ] 객체지향언어, 절차지향언어 비교
 * [ ] c언어 자료구조
 * [ ] c언어 변수 유효범위 활용예
