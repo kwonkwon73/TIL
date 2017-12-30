@@ -1,4 +1,6 @@
 # TIL
+- gitbook url : http://bit.ly/tilkwon
+- github TIL repository : https://github.com/kwonkwon73/TIL
 
 #### 목적
 - 그날그날 기억할만한 내용을 저장합니다.
@@ -16,13 +18,14 @@
 
 #### 형식
 - `{년}-{월}-{일}_{번호}_{노트-제목}.md` 마크다운으로 작성한 파일이 기본 노트입니다.
-- 해당 노트와 함께 봐야 될 내용이 있을 경우, 위의 마크다운 파일 이름에서 {노트 제목}만 제외한 폴더를 생성한 뒤 자료 업로드합니다.
+- 해당 노트와 함께 봐야 될 내용이 있을 경우, 위의 마크다운 파일 이름에서 {노트 제목}만 제외한 폴더를 생성한 뒤 repository에 업로드합니다.
 
 #### 노트 복습
 - TIL repository에 올리는 노트를 언제든지 볼 수 있도록 [gitbook][1]으로 펴냅니다.
 - gitbook 생성시, github TIL repository와 동기화도 가능합니다.
 - gitbook에서 새로운 노트를 작성할 수도 있습니다. (직접 작성한 md이 깔끔하지만, 편집은 gitbook이 훨씬 편리)   
 - [bitly][2]에서 단축 url을 생성합니다. (링크에 언제 몇 번 접속하는지 분석 결과 제공)
+- gitbook에 새 article을 추가하면 [SUMARRY.md](SUMARRY.md)파일에 리스트업 됩니다. (목차)
 
 [1]:https://www.gitbook.com/
 [2]:https://bitly.com/
