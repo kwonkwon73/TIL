@@ -18,5 +18,8 @@
     <ClCompile Include="c-basic-struct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="render-time-delay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
