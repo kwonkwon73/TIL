@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	while(1)
+	for ( ; ; ) 
 	{
-		printf("Hello\n");
+		printf("Hello \n");
 	}
 	return 0;
 }
