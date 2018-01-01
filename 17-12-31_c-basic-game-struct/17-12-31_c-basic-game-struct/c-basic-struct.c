@@ -1,10 +1,33 @@
 #include <stdio.h>
 
+void Init()
+{
+
+}
+void Update()
+{
+
+}
+void Render()
+{
+
+}
+void Release()
+{
+
+}
+
 int main(void)
 {
-	for ( ; ; ) 
+	Init();
+
+	while (1)
 	{
-		printf("Hello \n");
+		Update();
+		Render();
+
 	}
+
+	Release();
 	return 0;
 }
