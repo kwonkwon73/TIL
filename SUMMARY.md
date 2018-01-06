@@ -1,6 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [math](math.md)
 * [17-12-30\_01\_hello-world](17-12-30_01_hello-world.md)
 * [17-12-30\_02\_c-version-control-with-git](17-12-30_02_c-version-control-with-git.md)
 * [17-12-30\_03\_\[preview\]c-lang-keyword](17-12-30_03_[preview]c-lang-keyword.md)
@@ -11,4 +12,6 @@
 * [18-01-02\_fmod-sound](18-01-02_fmod.md)
 * [18-01-03\_pope-coin](18-01-03pope-coin.md)
 * [18-01-04\_pygame](18-01-04pygame.md)
-
+* [18.01.05.making-good-habits](18.01.05.making-good-habits.md)
+* [18.01.06.listup-and-note-design](18.01.06.listup-and-note-design.md)
+* [18-01-04\_pygame](18-01-04pygame.md)
