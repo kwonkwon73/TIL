@@ -14,4 +14,3 @@
 * [18-01-04\_pygame](18-01-04pygame.md)
 * [18.01.05.making-good-habits](18.01.05.making-good-habits.md)
 * [18.01.06.listup-and-note-design](18.01.06.listup-and-note-design.md)
-* [18-01-04\_pygame](18-01-04pygame.md)
