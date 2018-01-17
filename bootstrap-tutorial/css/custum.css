@@ -1,0 +1,16 @@
+/*전체 영역을 통틀어서 스타일 정의*/
+@import url("https://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+* {
+  font-family: 'Nanum Gothic';
+}
+
+a {
+  color : #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
