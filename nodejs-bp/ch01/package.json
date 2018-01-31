@@ -1,6 +1,21 @@
 {
   "name": "ch01",
-  "version": "0.0.0",
+  "description":"Build a Twitter Like app using the MVC design pattern",
+  "License":"MIT",
+  "author":{
+    "name":"Fernando Monteiro",
+    "url":"https://github.com/newaeonweb/node-6-blueprints"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/newaeonweb/node-6-blueprints.git"
+  },
+  "keywords":[
+    "MVC",
+    "Express Application",
+    "Expressjs"
+  ],
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
