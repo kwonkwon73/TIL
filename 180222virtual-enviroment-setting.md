@@ -46,7 +46,12 @@
     * logout`후 재시동`
 
       * 재시동하면서 기본 접속 정보 확인할 수 있었음![](/assets/screen 94.jpg)
-      * 재시동하고 `vagrant ssh`로 가상머신에 로그인까지 해야 
+      * 재시동하고 `vagrant ssh`로 가상머신에 로그인까지 해야함
+
+    * Node.js 0.12.4 설치
+      * `nvm install v0.12.4 `
+      * `nvm alias default v0.12.4`
+      * 설치 확인 `node -v`
 
 ## 새로 생긴 질문
 
