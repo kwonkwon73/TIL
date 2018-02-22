@@ -49,13 +49,25 @@
       * 재시동하고 `vagrant ssh`로 가상머신에 로그인까지 해야함
 
     * Node.js 0.12.4 설치
-      * `nvm install v0.12.4 `
+
+      * `nvm install v0.12.4`
       * `nvm alias default v0.12.4`
-      * 설치 확인 `node -v`
+      * 설치\(및 버전\) 확인 `node -v`
+
+    * Node.js REPL\(Read-Eval-Print-Loop\)
+      * ![](/assets/screen 95.jpg)
+        아 이걸 REPL이라고 부르는구나. 파이썬에서는 인터프리터라고 불렀던 것 같은데 
+    * `sudo visudo`
+      * 설정 항목 수정
+
+
+
+
 
 ## 새로 생긴 질문
 
 * [ ] 파이썬도 가상 환경 만들어서 코드 돌려봤던 것 같은데 \(한두달 전이라 기억이 안남 흑흑...\) 이거랑 비슷한건가? 툴만 다르고
+* [ ] 인터프리터 / REPL?
 
 
 
