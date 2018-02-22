@@ -25,6 +25,7 @@
   2. `vagrant up --provider virtualbox`
 
 * 가상 머신 제어
+
   * 기동 상태 확인 `vagrant status`
   * 실행 중인 가상 머신 종료 `vagrant halt`
   * 가상 머신 시동 `vagrant up`
@@ -34,14 +35,18 @@
   * 가상 머신 삭제 `vagrant destroy`
   * 가상 머신에 로그인 `vagrant ssh`
     * mac이라 따로 설정할 것 없이 로그인 된 것 같은데, 윈도우에서는  ssh 클라이언트에서 접속해야 되는 듯
+
 * Node.js 설치 \(가상머신에\)
+
   * nvm 설치
+
     * > node.js는 버전에 따라 동작이 다르다. 그래서 nvm이라는 도구를 사용해서 특정 버전의 Node.js를 설치할 것이다.
     * `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.3/install.sh | bash`
 
-    * logout` 후 재시동 `
+    * logout`후 재시동`
 
       * 재시동하면서 기본 접속 정보 확인할 수 있었음![](/assets/screen 94.jpg)
+      * 재시동하고 `vagrant ssh`로 가상머신에 로그인까지 해야 
 
 ## 새로 생긴 질문
 
