@@ -16,3 +16,4 @@
 * [18.01.06.listup-and-note-design](18.01.06.listup-and-note-design.md)
 * [180222_virtual-enviroment-setting](180222_virtual-enviroment-setting.md)
 * [180223_webpage-download](180223_webpage-download.md)
+* [180224_py-review](180224_py-review.md)
