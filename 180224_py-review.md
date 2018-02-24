@@ -58,3 +58,30 @@
       - 2에서 undefined가 나와서 뭐지 했는데, `var` 키워드를 쓰면 변수 여러개 선언 한 번에 가능은 하나 undefined가 기본값인 것 같다. 마지막에 있는 변수만 대입 연산자 값 들어가고.
         - 혹시 파이썬처럼 변수와 값 개수 맞추면 될까 싶어서 `var b, c = 1, 1` 로 해보았으나 `SyntaxError: Unexpected number` 자바스크립트에서는 안 된다.
         - `var b, c, d = 1`이면 `b, c`는 undefined, 마지막 `d`만 값 1 할당
+  - 비교 연산자
+    - 파이썬으로 사용자에게 입력 값을 받아서 특정 조건이면 종료되는 기능을 만드는데 헷갈려서 테스트해보고 정리함.
+      - [ ] 자동 형변환 자바스크립트랑 파이썬 어떻게 처리되는지 찾아봐야겠다.
+    - JS
+      ```js
+      a = 0
+      console.log(typeof(a)) //number
+      console.log(a=="0") //Ture
+
+      b = "0"
+      console.log(typeof(b)) //string
+      console.log(b=="0") //Ture
+      ```
+    - Python
+      ```py
+      a = 0
+      print(type(a)) #number
+      print(a == "0") #False
+
+      b = "0"
+      print(type(b)) #string
+      print(b == 0) #False
+      ```
+
+- 클래스
+  - 원래 이 부분 복습이 메인인데 계산기 더하기 기능 예시 보고 만들다 정작 본론은 못 들어갔네, 허허. 근데 만들어서 재미는 있음! 위에 내용 다시 복습 하는 계기도 됐고.
+  - `sum = sum + num`은 중복되는 `sum` 빼고 `sum += num` 으로 쓸 수 있음
