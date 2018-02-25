@@ -17,3 +17,4 @@
 * [180222_virtual-enviroment-setting](180222_virtual-enviroment-setting.md)
 * [180223_webpage-download](180223_webpage-download.md)
 * [180224_py-review](180224_py-review.md)
+* [180225_vim-plugin-feat-dracula](180225_vim-plugin-feat-dracula.md)

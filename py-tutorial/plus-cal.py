@@ -18,7 +18,7 @@ num = input("%s" % msg)
 while True:
     if num != "=":
         num = int(num)
-        sum = sum + num
+        sum += num #sum = sum + num 으로 쓴걸 이렇게 줄여서 쓸 수 있음
         num = input("%s" % msg)
     if num == "=": #1. 원래 =등호가 입력되면 종료로 하려 했는데 위에 num=int(num)이 먼저 실행이 되는지 에러가 남. 우선 기능은 되는지 보게 0으로 바꿔서 실행
         print("결과값 : %d" %sum)
