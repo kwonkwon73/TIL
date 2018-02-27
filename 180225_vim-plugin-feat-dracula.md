@@ -23,6 +23,8 @@ vim에 dracula 테마 플러그인 적용하기
 2. `~/.vimrc` 파일 수정, 터미널에 `vi ~/.vimrc`로 입력하면 된다.
 3. Vundle의 Quick Start를 참고해 `Plugin 'dracula/vim'`를 입력한다. `daracula.vim` 파일을 `~/.vim/colors` 경로로 옮길 자신이 없으면 맨 아래 `syntax on`, `color dracula` 2줄을 더 입력한다.
   ```
+  set backspace=indent,eol,start
+
   set nocompatible              " be iMproved, required
   filetype off                  " required
 
