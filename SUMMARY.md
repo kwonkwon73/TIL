@@ -21,4 +21,5 @@
 * [180227\_java-r-crawling](180227_java-r-crawling.md)
 * [180414\_eclipse-keys](180414setup-cpp-on-mac.md)
 * [180415-dda](180415.md)
+* [180415\_Bresenham-algorithm](180415bresenham-algorithm.md)
 
